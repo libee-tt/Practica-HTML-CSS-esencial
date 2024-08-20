@@ -1,0 +1,33 @@
+body{
+    text-align: justify;
+    background-image: url(https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/0/3/c/03cf8507d0_50142286_berners-lee-1000.jpg);
+    background-size: cover;
+    }
+
+#center{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: black;
+
+}
+h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: black;
+}
+
+p{
+    background-color: white;
+    background-size:contain;
+}
+
+#otros-ejercicios{
+    display: flex;
+    justify-content: space-between;
+}

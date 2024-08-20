@@ -1,0 +1,66 @@
+h2{
+    font-family: 'oswald';   
+    text-align: center;
+    font-size: 40px;
+    background-color: white;
+    padding: 4;
+    background-blend-mode:color-burn;
+}
+
+h1{
+    font-family: 'Great Vibes';
+    text-align: center;
+    font-size: 100px;
+    color: whitesmoke;
+    
+}
+p{
+    text-align: justify;
+    font-family: 'Oswald';
+    background-color: white;
+    font-size: 20px;
+    padding: 100 10 10 10px;
+    
+}
+
+ul{
+    text-align: justify;
+    font-family: 'Oswald';
+}
+ol{
+    font-family:'oswald';
+}
+
+#albumes {
+    color: black;
+    background-color: white;
+}
+
+body{
+    background-image: url(/Punto6/Imagenes/Billie.png);
+}
+#fotos_albumes{
+    text-align: center;
+    margin: 30px;
+}
+#enlaces{
+    background-color: white;
+    font-size: 20px;
+}
+#foto{
+    width: 200px;
+    margin: 10px;
+    border-radius: 15px;
+ }
+
+ #bio{
+    text-align: center;
+ }
+.Inicio{
+    text-align: center;
+    background-color: white;
+}
+#otros-ejercicios{
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(97, 22, 40);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    color: rgb(185, 13, 65);
+    background-color: white;
+}
+h2{
+    font-size: 40px;
+    color: rgb(196, 41, 87);
+}
+#quiza{
+    font-size: 30px;
+    color: rgb(226, 86, 128);
+}
+#texto{
+    font-size: 20px;
+    color: rgb(255, 125, 164);
+}
+img{
+    width: 500px;
+    border-radius: 40px;
+}
+
+.Inicio{
+    text-align: center;
+    background-color: white;
+}
+#otros-ejercicios{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}

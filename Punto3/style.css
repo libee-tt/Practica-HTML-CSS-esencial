@@ -1,0 +1,54 @@
+img{
+    width: 150px;
+    margin: auto;
+}
+.center{
+    text-align: center;
+}
+
+h1{
+    background-image: url(https://thumbs.dreamstime.com/b/pared-de-la-imagen-con-muchas-pantallas-de-v%C3%ADdeo-67899726.jpg);
+    color: white;
+    text-align: center;
+}
+
+.Inicio{
+    text-align: center;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#insta{
+    background-image: url(https://img00.deviantart.net/90f3/i/2017/070/5/e/instagram_logo_gradient_rainbow_by_projectowl-db1xp40.jpg);
+    background-position: 1px;
+    text-align: center;
+    color: white;
+}
+#youtube{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+#whats{
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+#face{
+    background-color: rgb(59, 89, 152);
+    text-align: center;
+    color: white;
+}
+#tiktok{
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.tFgjxSLQLcbI4dpyzMB4GwHaE8&pid=Api&P=0&h=180);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+#otros-ejercicios{
+    display: flex;
+    justify-content: space-between;
+}

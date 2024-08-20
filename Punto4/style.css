@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #461a27;
+}
+
+.Inicio{
+    text-align: center;
+}
+
+h1 {
+    color: #5e0d32;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #b92959;
+    margin-top: 30px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+li {
+    margin-bottom: 2px;
+}
+
+
+
+/* Estilo de los enlaces (si llegas a tener alguno) */
+a {
+    color: #ad1454;
+    text-decoration: none;
+}
+#otros-ejercicios{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    width: 300px;
+}
